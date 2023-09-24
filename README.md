@@ -1,4 +1,4 @@
-# Game Engine Name
+# Game Engine
 
 ## Languages and Tools Used
 Java, OpenGL, Lightweight Java Game Library
