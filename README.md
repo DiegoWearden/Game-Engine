@@ -1,7 +1,7 @@
 # Game Engine
 
 ## Languages and Tools Used
-Java, OpenGL, Lightweight Java Game Library
+Java, GLSL, OpenGL, Lightweight Java Game Library
 
 ## Description
 
