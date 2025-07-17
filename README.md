@@ -2,6 +2,8 @@
 
 A 3D game engine built with LWJGL (Lightweight Java Game Library) featuring terrain rendering, water effects, lighting, and entity management.
 
+![Game Engine Screenshot](src/main/java/Game%20Engine%20Screenshot.png)
+
 ## Prerequisites
 
 - **Java Development Kit (JDK)**: Version 8 or higher
