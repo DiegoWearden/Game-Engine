@@ -11,11 +11,14 @@ public class ServerChat {
     private static String username;
     private static ChatWindow chatWindow;
     private static boolean colored;
+
+    private static String serverIP = "localhost";
+    private static int serverPort = 57923;
     public static void main(String[] args) {
         chatWindow = new ChatWindow();
         chatWindow.buildFrame();
         try{
-            socket = new Socket("162.204.2.105", 57923);
+            socket = new Socket(serverIP, serverPort);
         }catch (IOException e){
             chatWindow.printData("Could not connect to server", false);
         }
